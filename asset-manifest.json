@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.73a20f44.css",
+    "main.js": "/my-app/static/js/main.85ad9971.js",
+    "static/js/787.0c3f432a.chunk.js": "/my-app/static/js/787.0c3f432a.chunk.js",
+    "static/media/library.jpg": "/my-app/static/media/library.a2e67a01f6c58579765b.jpg",
+    "static/media/home-bg.jpg": "/my-app/static/media/home-bg.3a407a4b1d67a5607ae4.jpg",
+    "static/media/Avatar.png": "/my-app/static/media/Avatar.366fb0ab82ce1c0c8e6f.png",
+    "static/media/Tic.png": "/my-app/static/media/Tic.c4627ab519ac40a55631.png",
+    "static/media/Suman.pdf": "/my-app/static/media/Suman.71093d8a90969b610b4b.pdf",
+    "static/media/home-main.svg": "/my-app/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/my-app/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/facial.jpg": "/my-app/static/media/facial.082b4ba9c816a20bd813.jpg",
+    "static/media/pre.svg": "/my-app/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my-app/index.html",
+    "main.73a20f44.css.map": "/my-app/static/css/main.73a20f44.css.map",
+    "main.85ad9971.js.map": "/my-app/static/js/main.85ad9971.js.map",
+    "787.0c3f432a.chunk.js.map": "/my-app/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73a20f44.css",
+    "static/js/main.85ad9971.js"
+  ]
+}
